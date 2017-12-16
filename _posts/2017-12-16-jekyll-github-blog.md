@@ -10,7 +10,7 @@ author: nick
 * content
 {:toc}
 
-用jekyll在github上搭建博客
+介绍用jekyll在github上搭建博客的过程，样式使用的 HyG Theme
 
 
 
